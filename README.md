@@ -2,7 +2,7 @@
 
 A **complete**, community-first prompt library and docs site — inspired by rUv's Prompt-Engine — with **real, ready-to-use prompts**, runnable examples, a **local Playground**, and **OCI Generative AI** integration paths.
 
-- 25+ curated prompts in a machine-readable **registry** (`/prompts/registry/*.json`)
+- 1000+ curated prompts in a machine-readable **registry** (`/prompts/registry/*.json`)
 - Auto-generated prompt docs at build time
 - **Examples**: Node & Python clients for OpenAI-compatible, Anthropic, and **OCI** endpoints
 - **Evaluation** scripts (simple A/B) and a shared test-set
