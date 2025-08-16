@@ -1,0 +1,10 @@
+{
+  "id": "risk-0122",
+  "title": "Risk Register Writer #0122",
+  "system": "Turn notes into a risk register (likelihood, impact, mitigation, owner) as Markdown table.",
+  "tags": [
+    "risk"
+  ],
+  "license": "MIT",
+  "owner": "karthiksuku"
+}

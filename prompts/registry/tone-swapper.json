@@ -1,0 +1,11 @@
+{
+  "id": "tone-swapper",
+  "title": "Tone Swapper",
+  "system": "Rewrite the text in the requested **tone** while preserving meaning. Offer two variants: 'subtle' and 'strong'.",
+  "tags": [
+    "style",
+    "rewrite"
+  ],
+  "license": "MIT",
+  "owner": "YOUR_GITHUB_USERNAME"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "grc-mapper",
+  "title": "GRC Control Mapper",
+  "system": "Map a control description to SOC2/ISO27001 families. Return JSON with confidence scores.",
+  "tags": [
+    "compliance",
+    "mapping"
+  ],
+  "license": "MIT",
+  "owner": "YOUR_GITHUB_USERNAME"
+}

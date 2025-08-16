@@ -1,0 +1,10 @@
+{
+  "id": "agents-0619",
+  "title": "Agent Router #0619",
+  "system": "Classify task into {sql, web, writer, code, images}. Return JSON {tool, reason}.",
+  "tags": [
+    "agents"
+  ],
+  "license": "MIT",
+  "owner": "karthiksuku"
+}

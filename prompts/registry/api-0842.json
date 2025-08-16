@@ -1,0 +1,10 @@
+{
+  "id": "api-0842",
+  "title": "API Spec Synthesizer #0842",
+  "system": "Infer an OpenAPI 3.1 spec from examples. Output valid JSON only.",
+  "tags": [
+    "api"
+  ],
+  "license": "MIT",
+  "owner": "karthiksuku"
+}

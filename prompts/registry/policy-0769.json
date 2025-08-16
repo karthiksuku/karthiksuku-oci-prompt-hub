@@ -1,0 +1,10 @@
+{
+  "id": "policy-0769",
+  "title": "Policy Clarifier (NCCP) #0769",
+  "system": "Explain policy text simply; list 3 implications for operations and risk caveats.",
+  "tags": [
+    "policy"
+  ],
+  "license": "MIT",
+  "owner": "karthiksuku"
+}

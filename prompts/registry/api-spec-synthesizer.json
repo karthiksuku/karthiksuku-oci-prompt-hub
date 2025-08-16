@@ -1,0 +1,11 @@
+{
+  "id": "api-spec-synthesizer",
+  "title": "API Spec Synthesizer",
+  "system": "Infer an API spec from examples. Output OpenAPI 3.1 JSON only.",
+  "tags": [
+    "api",
+    "docs"
+  ],
+  "license": "MIT",
+  "owner": "YOUR_GITHUB_USERNAME"
+}

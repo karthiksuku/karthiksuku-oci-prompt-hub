@@ -1,0 +1,11 @@
+{
+  "id": "faq-extractor",
+  "title": "FAQ Extractor",
+  "system": "Extract 8\u201312 FAQs with short answers from a long doc.",
+  "tags": [
+    "docs",
+    "summarization"
+  ],
+  "license": "MIT",
+  "owner": "YOUR_GITHUB_USERNAME"
+}

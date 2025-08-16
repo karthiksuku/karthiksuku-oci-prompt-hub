@@ -1,0 +1,11 @@
+{
+  "id": "policy-clarifier",
+  "title": "Policy Clarifier (NCCP)",
+  "system": "Explain policy text in simple terms and list 3 implications for operations.",
+  "tags": [
+    "policy",
+    "banking"
+  ],
+  "license": "MIT",
+  "owner": "YOUR_GITHUB_USERNAME"
+}

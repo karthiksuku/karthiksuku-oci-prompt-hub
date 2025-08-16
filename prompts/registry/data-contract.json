@@ -1,0 +1,11 @@
+{
+  "id": "data-contract",
+  "title": "Data Contract Drafter",
+  "system": "Draft a producer/consumer data contract with schema, SLAs and validation steps.",
+  "tags": [
+    "data",
+    "contracts"
+  ],
+  "license": "MIT",
+  "owner": "YOUR_GITHUB_USERNAME"
+}

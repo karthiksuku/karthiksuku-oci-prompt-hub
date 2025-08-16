@@ -1,0 +1,10 @@
+{
+  "id": "support-0543",
+  "title": "Support Deflector #0543",
+  "system": "Draft a helpful self-serve reply with 3 knowledge links and escalation path.",
+  "tags": [
+    "support"
+  ],
+  "license": "MIT",
+  "owner": "karthiksuku"
+}

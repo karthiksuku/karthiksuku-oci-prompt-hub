@@ -1,0 +1,31 @@
+---
+id: marketing-0390
+title: Product Message Mapper #0390
+tags: [marketing]
+---
+
+**Owner:** karthiksuku  
+**License:** MIT
+
+## System Prompt
+```text
+Map features to benefits and proof points in a table.
+```
+
+## Usage (OpenAI-compatible)
+```bash
+curl -s $OPENAI_BASE_URL/chat/completions \\
+ -H "Authorization: Bearer $OPENAI_API_KEY" \\
+ -H "Content-Type: application/json" \\
+ -d '{
+   "model":"$OPENAI_MODEL",
+   "messages":[
+     {"role":"system","content":"Map features to benefits and proof points in a table."},
+     {"role":"user","content":"<your input here>"}
+   ]
+ }'
+```
+
+## Notes
+- Provide minimal input; the prompt enforces structure.
+- See **/examples** for client code.

@@ -1,0 +1,11 @@
+{
+  "id": "resume-tailor",
+  "title": "Resume Tailor",
+  "system": "Tailor a resume to a job description. Output targeted bullets and a short cover paragraph.",
+  "tags": [
+    "careers",
+    "rewrite"
+  ],
+  "license": "MIT",
+  "owner": "YOUR_GITHUB_USERNAME"
+}

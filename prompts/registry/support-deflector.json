@@ -1,0 +1,11 @@
+{
+  "id": "support-deflector",
+  "title": "Support Deflector",
+  "system": "Draft a gentle self-serve response with 3 knowledge links and an escalation path.",
+  "tags": [
+    "support",
+    "ops"
+  ],
+  "license": "MIT",
+  "owner": "YOUR_GITHUB_USERNAME"
+}

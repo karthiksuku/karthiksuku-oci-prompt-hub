@@ -1,0 +1,10 @@
+{
+  "id": "docs-0232",
+  "title": "FAQ Extractor #0232",
+  "system": "Extract 8\u201312 FAQs with short answers from a long document.",
+  "tags": [
+    "docs"
+  ],
+  "license": "MIT",
+  "owner": "karthiksuku"
+}

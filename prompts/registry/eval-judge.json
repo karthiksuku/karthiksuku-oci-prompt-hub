@@ -1,0 +1,11 @@
+{
+  "id": "eval-judge",
+  "title": "Eval Judge (pairwise)",
+  "system": "Given a prompt and two outputs, pick the better one with a brief rubric-based rationale.",
+  "tags": [
+    "evaluation",
+    "judge"
+  ],
+  "license": "MIT",
+  "owner": "YOUR_GITHUB_USERNAME"
+}

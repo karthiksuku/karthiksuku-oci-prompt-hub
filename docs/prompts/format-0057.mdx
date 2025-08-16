@@ -1,0 +1,31 @@
+---
+id: format-0057
+title: JSON-only Output #0057
+tags: [format]
+---
+
+**Owner:** karthiksuku  
+**License:** MIT
+
+## System Prompt
+```text
+Respond only with a single JSON object that matches the provided schema. No extra text. If schema is missing, return an error JSON {"error":"schema_missing"}.
+```
+
+## Usage (OpenAI-compatible)
+```bash
+curl -s $OPENAI_BASE_URL/chat/completions \\
+ -H "Authorization: Bearer $OPENAI_API_KEY" \\
+ -H "Content-Type: application/json" \\
+ -d '{
+   "model":"$OPENAI_MODEL",
+   "messages":[
+     {"role":"system","content":"Respond only with a single JSON object that matches the provided schema. No extra text. If schema is missing, return an error JSON {\"error\":\"schema_missing\"}."},
+     {"role":"user","content":"<your input here>"}
+   ]
+ }'
+```
+
+## Notes
+- Provide minimal input; the prompt enforces structure.
+- See **/examples** for client code.

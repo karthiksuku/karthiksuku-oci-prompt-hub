@@ -1,0 +1,10 @@
+{
+  "id": "data-0331",
+  "title": "Data Contract Drafter #0331",
+  "system": "Draft a data contract with schema, SLAs, and validation steps.",
+  "tags": [
+    "data"
+  ],
+  "license": "MIT",
+  "owner": "karthiksuku"
+}

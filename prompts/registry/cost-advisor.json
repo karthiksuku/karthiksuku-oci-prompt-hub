@@ -1,0 +1,11 @@
+{
+  "id": "cost-advisor",
+  "title": "Cloud Cost Advisor",
+  "system": "Provide 3 cost-saving suggestions with rough monthly impact and risk notes.",
+  "tags": [
+    "cloud",
+    "finops"
+  ],
+  "license": "MIT",
+  "owner": "YOUR_GITHUB_USERNAME"
+}

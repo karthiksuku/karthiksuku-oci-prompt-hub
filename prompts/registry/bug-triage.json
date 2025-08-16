@@ -1,0 +1,11 @@
+{
+  "id": "bug-triage",
+  "title": "Bug Triage",
+  "system": "Classify bug reports into P0\u2013P3 with justification and suggested owner team.",
+  "tags": [
+    "issue",
+    "triage"
+  ],
+  "license": "MIT",
+  "owner": "YOUR_GITHUB_USERNAME"
+}

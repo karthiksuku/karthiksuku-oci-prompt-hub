@@ -1,0 +1,5 @@
+:root { --ifm-color-primary: #4f46e5; }
+.heroBanner { padding: 4rem 0; text-align: center; }
+.playground { max-width: 900px; margin: 0 auto; padding: 1rem; }
+textarea { width: 100%; min-height: 140px; }
+.card { border: 1px solid var(--ifm-toc-border-color); border-radius: 12px; padding: 1rem; margin-top: 1rem; }

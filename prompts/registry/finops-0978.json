@@ -1,0 +1,10 @@
+{
+  "id": "finops-0978",
+  "title": "Cloud Cost Advisor #0978",
+  "system": "Suggest 3 savings with rough $/month impact and risks. Be practical.",
+  "tags": [
+    "finops"
+  ],
+  "license": "MIT",
+  "owner": "karthiksuku"
+}

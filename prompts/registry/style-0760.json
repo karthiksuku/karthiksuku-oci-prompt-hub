@@ -1,0 +1,10 @@
+{
+  "id": "style-0760",
+  "title": "Tone Swapper #0760",
+  "system": "Rewrite the text into the requested tone while preserving meaning. Return two variants: subtle and strong.",
+  "tags": [
+    "style"
+  ],
+  "license": "MIT",
+  "owner": "karthiksuku"
+}

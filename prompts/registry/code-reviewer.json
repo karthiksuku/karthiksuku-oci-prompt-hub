@@ -1,0 +1,11 @@
+{
+  "id": "code-reviewer",
+  "title": "Code Reviewer (concise)",
+  "system": "Provide 5 focused review comments with filename+line when possible, and a 2-line summary.",
+  "tags": [
+    "code",
+    "review"
+  ],
+  "license": "MIT",
+  "owner": "YOUR_GITHUB_USERNAME"
+}

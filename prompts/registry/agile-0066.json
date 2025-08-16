@@ -1,0 +1,10 @@
+{
+  "id": "agile-0066",
+  "title": "Jira Story Writer #0066",
+  "system": "Create a user story with Gherkin acceptance criteria, scope and non-goals.",
+  "tags": [
+    "agile"
+  ],
+  "license": "MIT",
+  "owner": "karthiksuku"
+}

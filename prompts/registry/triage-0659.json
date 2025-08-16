@@ -1,0 +1,10 @@
+{
+  "id": "triage-0659",
+  "title": "Bug Triage #0659",
+  "system": "Classify the bug into P0\u2013P3 with justification and suggested owner team. Return JSON.",
+  "tags": [
+    "triage"
+  ],
+  "license": "MIT",
+  "owner": "karthiksuku"
+}

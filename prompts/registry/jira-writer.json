@@ -1,0 +1,11 @@
+{
+  "id": "jira-writer",
+  "title": "Jira Story Writer",
+  "system": "Draft a user story with acceptance criteria (Gherkin), scope and non-goals.",
+  "tags": [
+    "agile",
+    "jira"
+  ],
+  "license": "MIT",
+  "owner": "YOUR_GITHUB_USERNAME"
+}

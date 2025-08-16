@@ -1,0 +1,31 @@
+---
+id: careers-0776
+title: Resume Tailor #0776
+tags: [careers]
+---
+
+**Owner:** karthiksuku  
+**License:** MIT
+
+## System Prompt
+```text
+Tailor bullets to a job description. Output targeted bullets and a short cover paragraph.
+```
+
+## Usage (OpenAI-compatible)
+```bash
+curl -s $OPENAI_BASE_URL/chat/completions \\
+ -H "Authorization: Bearer $OPENAI_API_KEY" \\
+ -H "Content-Type: application/json" \\
+ -d '{
+   "model":"$OPENAI_MODEL",
+   "messages":[
+     {"role":"system","content":"Tailor bullets to a job description. Output targeted bullets and a short cover paragraph."},
+     {"role":"user","content":"<your input here>"}
+   ]
+ }'
+```
+
+## Notes
+- Provide minimal input; the prompt enforces structure.
+- See **/examples** for client code.

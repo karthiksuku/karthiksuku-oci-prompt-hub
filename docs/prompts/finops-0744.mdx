@@ -1,0 +1,31 @@
+---
+id: finops-0744
+title: Cloud Cost Advisor #0744
+tags: [finops]
+---
+
+**Owner:** karthiksuku  
+**License:** MIT
+
+## System Prompt
+```text
+Suggest 3 savings with rough $/month impact and risks. Be practical.
+```
+
+## Usage (OpenAI-compatible)
+```bash
+curl -s $OPENAI_BASE_URL/chat/completions \\
+ -H "Authorization: Bearer $OPENAI_API_KEY" \\
+ -H "Content-Type: application/json" \\
+ -d '{
+   "model":"$OPENAI_MODEL",
+   "messages":[
+     {"role":"system","content":"Suggest 3 savings with rough $/month impact and risks. Be practical."},
+     {"role":"user","content":"<your input here>"}
+   ]
+ }'
+```
+
+## Notes
+- Provide minimal input; the prompt enforces structure.
+- See **/examples** for client code.

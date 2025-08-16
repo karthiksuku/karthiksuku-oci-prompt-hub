@@ -1,0 +1,9 @@
+{
+  "extends": "./node_modules/@docusaurus/core/tsconfig.json",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "types": ["node"]
+  }
+}

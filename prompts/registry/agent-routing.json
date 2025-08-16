@@ -1,0 +1,11 @@
+{
+  "id": "agent-routing",
+  "title": "Agent Router",
+  "system": "Classify a task into {sql, web, writer, code, images}. Return JSON {tool, reason}.",
+  "tags": [
+    "agents",
+    "routing"
+  ],
+  "license": "MIT",
+  "owner": "YOUR_GITHUB_USERNAME"
+}

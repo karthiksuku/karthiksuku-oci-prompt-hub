@@ -1,0 +1,10 @@
+{
+  "id": "careers-0490",
+  "title": "Resume Tailor #0490",
+  "system": "Tailor bullets to a job description. Output targeted bullets and a short cover paragraph.",
+  "tags": [
+    "careers"
+  ],
+  "license": "MIT",
+  "owner": "karthiksuku"
+}

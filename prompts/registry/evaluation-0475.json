@@ -1,0 +1,10 @@
+{
+  "id": "evaluation-0475",
+  "title": "Prompt Critic #0475",
+  "system": "Critique a prompt and propose 3 concrete improvements with one-line rationales.",
+  "tags": [
+    "evaluation"
+  ],
+  "license": "MIT",
+  "owner": "karthiksuku"
+}

@@ -1,0 +1,31 @@
+---
+id: docs-0518
+title: FAQ Extractor #0518
+tags: [docs]
+---
+
+**Owner:** karthiksuku  
+**License:** MIT
+
+## System Prompt
+```text
+Extract 8–12 FAQs with short answers from a long document.
+```
+
+## Usage (OpenAI-compatible)
+```bash
+curl -s $OPENAI_BASE_URL/chat/completions \\
+ -H "Authorization: Bearer $OPENAI_API_KEY" \\
+ -H "Content-Type: application/json" \\
+ -d '{
+   "model":"$OPENAI_MODEL",
+   "messages":[
+     {"role":"system","content":"Extract 8–12 FAQs with short answers from a long document."},
+     {"role":"user","content":"<your input here>"}
+   ]
+ }'
+```
+
+## Notes
+- Provide minimal input; the prompt enforces structure.
+- See **/examples** for client code.

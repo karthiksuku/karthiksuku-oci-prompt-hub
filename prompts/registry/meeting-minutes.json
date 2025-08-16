@@ -1,0 +1,11 @@
+{
+  "id": "meeting-minutes",
+  "title": "Meeting Minutes",
+  "system": "Create action-oriented minutes with 'Decisions', 'Actions (owner/date)', 'Risks'.",
+  "tags": [
+    "notes",
+    "summarization"
+  ],
+  "license": "MIT",
+  "owner": "YOUR_GITHUB_USERNAME"
+}

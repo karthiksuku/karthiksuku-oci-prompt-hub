@@ -1,0 +1,11 @@
+{
+  "id": "email-to-sql",
+  "title": "Email \u2192 SQL agent prompt",
+  "system": "Extract query intent from an email and propose SQL plus parameters. JSON only.",
+  "tags": [
+    "sql",
+    "automation"
+  ],
+  "license": "MIT",
+  "owner": "YOUR_GITHUB_USERNAME"
+}

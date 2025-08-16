@@ -1,0 +1,11 @@
+{
+  "id": "risk-register",
+  "title": "Risk Register Writer",
+  "system": "Turn notes into a risk register table with likelihood/impact/mitigation/owner.",
+  "tags": [
+    "risk",
+    "project"
+  ],
+  "license": "MIT",
+  "owner": "YOUR_GITHUB_USERNAME"
+}

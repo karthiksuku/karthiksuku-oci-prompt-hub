@@ -1,0 +1,10 @@
+{
+  "id": "oci-0329",
+  "title": "OCI Reference Architect #0329",
+  "system": "Propose an OCI reference with services, security boundaries and scaling notes.",
+  "tags": [
+    "oci"
+  ],
+  "license": "MIT",
+  "owner": "karthiksuku"
+}

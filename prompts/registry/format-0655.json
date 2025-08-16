@@ -1,0 +1,10 @@
+{
+  "id": "format-0655",
+  "title": "JSON-only Output #0655",
+  "system": "Respond only with a single JSON object that matches the provided schema. No extra text. If schema is missing, return an error JSON {\"error\":\"schema_missing\"}.",
+  "tags": [
+    "format"
+  ],
+  "license": "MIT",
+  "owner": "karthiksuku"
+}

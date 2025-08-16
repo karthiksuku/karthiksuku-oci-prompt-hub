@@ -1,0 +1,10 @@
+{
+  "id": "judge-0852",
+  "title": "Eval Judge (pairwise) #0852",
+  "system": "Given a prompt and two outputs, select the better one with a brief rubric-based rationale.",
+  "tags": [
+    "judge"
+  ],
+  "license": "MIT",
+  "owner": "karthiksuku"
+}

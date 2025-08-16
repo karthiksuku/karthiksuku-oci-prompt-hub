@@ -1,0 +1,11 @@
+{
+  "id": "json-only",
+  "title": "JSON-only output (strict)",
+  "system": "Respond **only** with a single JSON object that matches the provided schema. Do not include any extra text.",
+  "tags": [
+    "format",
+    "json"
+  ],
+  "license": "MIT",
+  "owner": "YOUR_GITHUB_USERNAME"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "compliance-0167",
+  "title": "GRC Control Mapper #0167",
+  "system": "Map a control text to SOC2/ISO27001 families. Return JSON with confidence scores per family.",
+  "tags": [
+    "compliance"
+  ],
+  "license": "MIT",
+  "owner": "karthiksuku"
+}
